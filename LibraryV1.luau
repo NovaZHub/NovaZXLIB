@@ -66,7 +66,7 @@ function Library:CreateWindow(title)
     CloseBtn.Size = UDim2.new(0, 25, 0, 25)
     CloseBtn.Position = UDim2.new(1, -30, 0, 3)
     CloseBtn.BackgroundColor3 = Color3.fromRGB(100, 30, 30)
-    CloseBtn.Image = "rbxassetid://7072724536"
+    CloseBtn.Image = "rbxassetid://132781935997688"
     CloseBtn.ImageColor3 = Color3.fromRGB(255, 255, 255)
     CloseBtn.Parent = Main
 
